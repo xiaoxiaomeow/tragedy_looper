@@ -1,8 +1,8 @@
 <table>
 <tr><th>主要剧情</th><th>关键人物</th><th>杀手</th><th>幕后黑手</th><th>邪教徒</th><th>特殊规则</th></tr>
 <tr><td>谋杀计划</td><td>1</td><td>1</td><td>1</td><td></td><td></td></tr>
-<tr><td>复仇之光</td><td></td><td></td><td>1</td><td></td><td>[强制] 轮回结束时，如果幕后黑手的起始地点有至少2个密谋指示物，主角失败。</td></tr>
-<tr><td>守护此地</td><td>1</td><td></td><td></td><td>1</td><td>[强制] 轮回结束时，如果学校有至少2个密谋指示物，主角失败。</td></tr>
+<tr><td>复仇之光</td><td></td><td></td><td>1</td><td></td><td>[强制][轮回结束] 如果幕后黑手的起始地点有至少2个密谋指示物，主角失败。</td></tr>
+<tr><td>守护此地</td><td>1</td><td></td><td></td><td>1</td><td>[强制][轮回结束] 如果学校有至少2个密谋指示物，主角失败。</td></tr>
 </table>
 
 <table>
@@ -29,8 +29,31 @@
 <tr><td>谋杀</td><td>与肇事者在同一地点的另一个角色死亡。</td></tr>
 <tr><td>不安扩大</td><td>在任意角色上放2个不安指示物，在任意其它角色上放1个阴谋指示物。</td></tr>
 <tr><td>自杀</td><td>肇事者死亡。</td></tr>
-<tr><td>医院事故</td><td>如果医院有至少1个阴谋指示物，医院的所有角色死亡。如果医院有至少2个阴谋指示物，主角死亡。以上两条同时发生。</td></tr>
+<tr><td>医院事故</td><td>如果医院有至少1个阴谋指示物，医院的所有角色死亡。<br>如果医院有至少2个阴谋指示物，主角死亡。<br>以上两条同时发生。</td></tr>
 <tr><td>远程谋杀</td><td>一个有至少2个阴谋指示物的角色死亡。</td></tr>
 <tr><td>失踪</td><td>肇事者移动到任意地点。在那个地点放一个阴谋指示物。</td></tr>
 <tr><td>传播</td><td>将2个友好指示物从一个角色上移动到任意其它角色上。</td></tr>
+</table>
+
+<table>
+<tr><th colspan="2">E-FS-01</th></tr>
+<tr><th>轮回数</th><td>3</td></tr>
+<tr><th>每轮回天数</th><td>4</td></tr>
+<tr><th colspan="2">日程表</td></tr>
+<tr><td>day1</td><td></td></tr>
+<tr><td>day2</td><td>谋杀</td></tr>
+<tr><td>day3</td><td>自杀</td></tr>
+<tr><td>day4</td><td></td></tr>
+</table>
+
+<table>
+<tr><th colspan="2">E-FS-02</th></tr>
+<tr><th>轮回数</th><td>4</td></tr>
+<tr><th>每轮回天数</th><td>5</td></tr>
+<tr><th colspan="2">日程表</td></tr>
+<tr><td>day1</td><td>不安扩大</td></tr>
+<tr><td>day2</td><td></td></tr>
+<tr><td>day3</td><td>医院事故</td></tr>
+<tr><td>day4</td><td></td></tr>
+<tr><td>day5</td><td>远程谋杀</td></tr>
 </table>
