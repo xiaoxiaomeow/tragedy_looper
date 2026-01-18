@@ -46,3 +46,60 @@
 <tr><td>传播</td><td>将2个友好指示物从一个角色上移动到任意其它角色上。</td></tr>
 <tr><td>蝴蝶效应</td><td>在与肇事者同一地点的任意角色上放1个友好，不安或密谋指示物。</td></tr>
 </table>
+
+----
+
+<table>
+<tr><th colspan="2">E-BT-03</th></tr>
+<tr><th>轮回数</th><td>3</td></tr>
+<tr><th>每轮回天数</th><td>6</td></tr>
+<tr><th colspan="2">日程表</td></tr>
+<tr><td>day1</td><td></td></tr>
+<tr><td>day2</td><td></td></tr>
+<tr><td>day3</td><td>污秽</td></tr>
+<tr><td>day4</td><td>不安扩大</td></tr>
+<tr><td>day5</td><td></td></tr>
+<tr><td>day6</td><td>自杀</td></tr>
+</table>
+
+<table>
+<tr><th colspan="2">E-BT-04</th></tr>
+<tr><th>轮回数</th><td>3</td></tr>
+<tr><th>每轮回天数</th><td>7</td></tr>
+<tr><th colspan="2">日程表</td></tr>
+<tr><td>day1</td><td></td></tr>
+<tr><td>day2</td><td>不安扩大</td></tr>
+<tr><td>day3</td><td></td></tr>
+<tr><td>day4</td><td>失踪</td></tr>
+<tr><td>day5</td><td>失踪</td></tr>
+<tr><td>day6</td><td></td></tr>
+<tr><td>day7</td><td>自杀</td></tr>
+</table>
+
+<table>
+<tr><th colspan="2">E-BT-05</th></tr>
+<tr><th>轮回数</th><td>3</td></tr>
+<tr><th>每轮回天数</th><td>7</td></tr>
+<tr><th colspan="2">日程表</td></tr>
+<tr><td>day1</td><td></td></tr>
+<tr><td>day2</td><td>自杀</td></tr>
+<tr><td>day3</td><td>失踪</td></tr>
+<tr><td>day4</td><td>医院事故</td></tr>
+<tr><td>day5</td><td></td></tr>
+<tr><td>day6</td><td>传播</td></tr>
+<tr><td>day7</td><td>污秽</td></tr>
+</table>
+
+<table>
+<tr><th colspan="2">E-BT-06</th></tr>
+<tr><th>轮回数</th><td>4</td></tr>
+<tr><th>每轮回天数</th><td>7</td></tr>
+<tr><th colspan="2">日程表</td></tr>
+<tr><td>day1</td><td></td></tr>
+<tr><td>day2</td><td>自杀</td></tr>
+<tr><td>day3</td><td></td></tr>
+<tr><td>day4</td><td>不安扩大</td></tr>
+<tr><td>day5</td><td>蝴蝶效应</td></tr>
+<tr><td>day6</td><td></td></tr>
+<tr><td>day7</td><td>污秽</td></tr>
+</table>
