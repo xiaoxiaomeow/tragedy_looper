@@ -103,3 +103,55 @@
 <tr><td>day6</td><td></td></tr>
 <tr><td>day7</td><td>污秽</td></tr>
 </table>
+
+<table>
+<tr><th colspan="2">E-BT-07</th></tr>
+<tr><th>轮回数</th><td>3</td></tr>
+<tr><th>每轮回天数</th><td>7</td></tr>
+<tr><th colspan="2">日程表</td></tr>
+<tr><td>day1</td><td></td></tr>
+<tr><td>day2</td><td></td></tr>
+<tr><td>day3</td><td>失踪</td></tr>
+<tr><td>day4</td><td>不安扩大</td></tr>
+<tr><td>day5</td><td>医院事故</td></tr>
+<tr><td>day6</td><td></td></tr>
+<tr><td>day7</td><td>谋杀</td></tr>
+</table>
+
+<table>
+<tr><th colspan="2">E-BT-08</th></tr>
+<tr><th>轮回数</th><td>5</td></tr>
+<tr><th>每轮回天数</th><td>4</td></tr>
+<tr><th colspan="2">日程表</td></tr>
+<tr><td>day1</td><td>蝴蝶效应</td></tr>
+<tr><td>day2</td><td>污秽</td></tr>
+<tr><td>day3</td><td>传播</td></tr>
+<tr><td>day4</td><td>失踪</td></tr>
+</table>
+
+<table>
+<tr><th colspan="2">E-BT-09</th></tr>
+<tr><th>轮回数</th><td>4</td></tr>
+<tr><th>每轮回天数</th><td>7</td></tr>
+<tr><th colspan="2">日程表</td></tr>
+<tr><td>day1</td><td></td></tr>
+<tr><td>day2</td><td>不安扩大</td></tr>
+<tr><td>day3</td><td></td></tr>
+<tr><td>day4</td><td>自杀</td></tr>
+<tr><td>day5</td><td>医院事故</td></tr>
+<tr><td>day6</td><td></td></tr>
+<tr><td>day7</td><td>谋杀</td></tr>
+</table>
+
+<table>
+<tr><th colspan="2">E-BT-10</th></tr>
+<tr><th>轮回数</th><td>4</td></tr>
+<tr><th>每轮回天数</th><td>6</td></tr>
+<tr><th colspan="2">日程表</td></tr>
+<tr><td>day1</td><td></td></tr>
+<tr><td>day2</td><td>蝴蝶效应</td></tr>
+<tr><td>day3</td><td>不安扩大</td></tr>
+<tr><td>day4</td><td>失踪</td></tr>
+<tr><td>day5</td><td>蝴蝶效应</td></tr>
+<tr><td>day6</td><td>失踪</td></tr>
+</table>
